@@ -22,7 +22,7 @@
 <div align="center" style="display: flex; flex-direction: column; gap: 0px;">
   <!-- First row with two columns -->
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img src="https://streak-stats.demolab.com?user=henrylin46&theme=vue&hide_border=true" alt="Commit Stats" width="55%">
+    <img src="https://github-readme-streak-stats-five-psi.vercel.app?user=henrylin46&theme=vue&hide_border=true" alt="Commit Stats" width="55%">
     <img src="https://github-readme-stats-sable-zeta-43.vercel.app/api/top-langs?username=henrylin46&hide=php,html,javascript,css&layout=compact&hide_border=true&theme=vue" alt="Top Languages" width="40%">
   </div>
   
