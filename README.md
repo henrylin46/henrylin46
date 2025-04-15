@@ -2,8 +2,8 @@
 
 ### I am Zhuofan (Henry) Lin, a ROOKIE in the field of Electronic Design Automation (EDA).
 
-- 🚀 **CUHK🇭🇰 - MSc. in Computer Science Engineering**
-- 🎓 **UPM🇲🇾 - B.S. in Computer and Communication Systems Engineering with Honours**
+- 🚀 **CUHK🇭🇰 - MSc in Computer Science**
+- 🎓 **UPM🇲🇾 - BEng in Computer and Communication Systems Engineering**
 - 👾 **C++ / Python / Pytorch / Verilog**
 - 🔬 **Interests in Place & Route, Logic Optimization, Parallel Programming, Deep Learning, and Large Language Models**
 - ✍️ **CUDA learning in progress**
