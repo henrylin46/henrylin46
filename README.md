@@ -1,6 +1,6 @@
 ## 🦫 Hi
 
-### I am Zhuofan (Henry) Lin, a ROOKIE in the field of Electronic Design Automation (EDA).
+### I am Zhuofan (Henry) Lin, ROOKIE in Electronic Design Automation (EDA).
 
 - 🇲🇾 **UPM - BEng in Computer and Communication Systems Engineering *(2021.02-2025.03)***
 - 👾 **C++ / Python / Pytorch / Verilog**
