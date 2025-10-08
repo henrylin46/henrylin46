@@ -1,11 +1,11 @@
 ## 🦫 Hi
 
-### I am Zhuofan (Henry) Lin, ROOKIE in Electronic Design Automation (EDA).
+### I‘m Zhuofan (Henry) Lin, ROOKIE electronic design automation (EDA).
 
-- 🇨🇳 **HKUST(GZ) - PhD in Microelectronics *(Commencing 2026.01)***
+- 🇨🇳 **HKUST(Guangzhou) - PhD in Microelectronics *(Commencing 2026.01)***
 - 🇲🇾 **UPM - BEng in Computer and Communication Systems Engineering *(2021.02-2025.03)***
-- 👾 **C++ / CUDA / Python / Pytorch / Verilog**
-- 🔬 **Interests in EDA, Parallel Programming, Large Language Models and Deep Learning**
+- 👾 **C++ / CUDA / Python / Pytorch**
+- 🔬 **Interests in EDA, Parallel Programming, LLMs and Machine Learning**
 - ✍️ **CUDA learning in progress**
 
 <div align="center">
