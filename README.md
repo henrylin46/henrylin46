@@ -1,6 +1,6 @@
 ## 🦫 Hi
 
-### I‘m [Zhuofan (Henry) Lin](https://henrylin46.github.io "Portfolio"), ROOKIE electronic design automation (EDA).
+### I‘m [Zhuofan (Henry) Lin](https://henrylin46.github.io "Portfolio"), ROOKIE in electronic design automation (EDA).
 
 - 🇨🇳 **HKUST(Guangzhou) - PhD in Microelectronics *(2026.01 - Present)***
 - 🇲🇾 **UPM - BEng in Computer and Communication Systems Engineering *(2021.03 - 2025.03)***
